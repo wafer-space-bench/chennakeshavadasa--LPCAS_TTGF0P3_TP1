@@ -31,7 +31,7 @@ TTGF0P3_LPCAS_FC_OTA is a low-power Folded Cascode Operational Transconductance 
 
 ## Folded Cascode Topology
 
-The OTA uses a PMOS differential input pair combined with an NMOS folded-cascode structure.
+The OTA uses a NMOS differential input pair combined with a PMOS folded-cascode structure.
 
 ### Input Stage
 
