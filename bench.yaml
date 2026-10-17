@@ -1,0 +1,26 @@
+source:
+  url: https://github.com/chennakeshavadasa/LPCAS_TTGF0P3_TP1
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf0p3
+  slot: tt_um_LPCAS_TTGF0P3_TP1
+  project: '3.3V Folded Cascode OTA '
+  size: 1x2
+  kind: analog
+  commit: 31ee3cd8c706daaa6e22d73b6280b1de0cdbc88b
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf0p3/tt_um_LPCAS_TTGF0P3_TP1
+  branch: tapeout/tinytapeout/ttgf0p3/tt_um_LPCAS_TTGF0P3_TP1
+  page: https://app.tinytapeout.com/shuttles/ttgf0p3
+generated: '2026-10-17T23:24:15Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/tinytapeout/ttgf0p3/tt_um_LPCAS_TTGF0P3_TP1
+- upstream/main
